@@ -14,7 +14,7 @@ class AppConfig extends ChangeNotifier {
     2: 'gemini-3-flash-preview',
   };
 
-  String backendUrl  = 'https://YOUR-APP.railway.app';
+  String backendUrl  = 'https://apprady-production.up.railway.app/';
   String apiKey      = '';
   int    modelTab    = 1;
   String modelManual = '';
